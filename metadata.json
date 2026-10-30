@@ -1,0 +1,6 @@
+{
+  "name": "LUMEN Studio - Modern E-Commerce Catalog & Checkout",
+  "description": "A standalone, responsive single-page e-commerce catalog featuring hash routing, persistent cart state, search, category filters, product details, off-canvas drawer, and validated checkout flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
